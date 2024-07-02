@@ -1,8 +1,18 @@
-# React + Vite
+# Paytm Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a basic implementation of a Paytm-like system, featuring a comprehensive frontend and backend. It includes functionalities for user registration, authentication, and transaction management through a user-friendly dashboard.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User Authentication**: Sign-up and sign-in pages for secure user access.
+- **Transactions Dashboard**: View and manage transactions with an intuitive interface.
+- **Frontend**: Built with React.js for a responsive and dynamic user experience.
+- **Backend**: Developed using Express.js and MongoDB to handle data storage and server-side logic.
+
+## Technologies Used
+
+- **Frontend**: React.js
+- **Backend**: Express.js
+- **Database**: MongoDB
+- **Styling**: CSS/Tailwind
+- **Version Control**: Git
